@@ -1,0 +1,124 @@
+body{
+  background-color: grey;
+  background-color: hsl(229, 6%, 66%);
+  font-family: 'Poppins', sans-serif;
+  font-size: 15px;
+}
+
+h1{
+  padding-top: 10px;
+  padding-left: 10px;
+}
+p{
+  padding-left: 10px;
+  color:grey;
+}
+img{
+  left: 245px;
+  position: relative;
+  top: 40px;
+}
+/*.first-img{
+  left: 245px;
+  position: relative;
+  top: 40px;
+}*/
+.First-sentence{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 200;
+  margin:30px auto 5px auto;
+  text-align: center;
+}
+.Second-sentence{
+  font-family: 'Poppins', sans-serif;
+  color:grey;
+  color: hsl(234, 12%, 34%);
+  font-weight: 600;
+  margin-top: 0;
+  text-align:center;
+}
+.Third-sentence{
+  color:grey;
+  color:hsl(234, 12%, 34%);
+  font-size: 12px;
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+.top-colored{
+  width: 353.6px;
+  height:5px;
+  background-color: red;
+  background-color: hsl(0,78%,62%);
+  border-radius: 150px;
+  margin: 0 3px 0 3px;
+  position: absolute;
+}
+
+.bottom-colored{
+  width: 353.6px;
+  height:5px;
+  background-color: orange;
+  background-color: hsl(34,97%,64%);
+  border-radius: 150px;
+  margin: 0 3px 0 3px;
+  position: absolute;
+}
+
+.left-colored{
+  width: 353.6px;
+  height:5px;
+  background-color: green;
+  background-color: hsl(180,62%,55%);
+  border-radius: 150px;
+  margin: 0 3px 0 3px;
+  position: absolute;
+}
+
+.right-colored{
+  width: 353.6px;
+  height:5px;
+  background-color: blue;
+  background-color: hsl(212,86%,64%);
+  border-radius: 150px;
+  margin: 0 3px 0 3px;
+  position: absolute;
+}
+.top-container{
+  background-color: grey;
+  background-color: hsl(0,0%,98%);
+  border-radius: 10px;
+  height: 250px;
+  margin:0 auto;
+  position: relative;
+  width: 360px;
+}
+.bottom-container{
+  background-color: grey;
+  background-color: hsl(0,0%,98%);
+  border-radius: 10px;
+  height: 250px;
+  margin: 30px auto;
+  position: relative;
+  width: 360px;
+}
+.left-container{
+  background-color: grey;
+  background-color: hsl(0,0%,98%);
+  border-radius: 10px;
+  bottom: 450px;
+  height: 250px;
+  left: 50px;
+  position: relative;
+  width: 360px;
+}
+.right-container{
+  background-color: grey;
+  background-color: hsl(0,0%,98%);
+  border-radius: 10px;
+  bottom: 700px;
+  left: 830px;
+  position: relative;
+  height: 250px;
+  width: 360px;
+}
